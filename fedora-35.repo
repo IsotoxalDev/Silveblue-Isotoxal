@@ -1,0 +1,6 @@
+[fedora-f35]
+name=Fedora f35 $basearch
+mirrorlist=https://mirrors.fedoraproject.org/metalink?repo=fedora-35&arch=$basearch
+enabled=0
+gpgcheck=0
+metadata_expire=1d

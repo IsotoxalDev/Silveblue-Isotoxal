@@ -1,5 +1,5 @@
 include: xfce-desktop-pkgs.yaml
-ref: fedora/rawhide/${basearch}/xfce
+ref: fedora/35/${basearch}/xfce
 rojig:
   name: fedora-xfce
   summary: "Fedora XFCE base image"
@@ -12,4 +12,4 @@ packages:
   # Portals for Flatpak
   - xdg-desktop-portal-gtk
 repos:
-  - fedora-rawhide
+  - fedora-35
