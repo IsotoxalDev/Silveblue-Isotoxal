@@ -24,3 +24,4 @@ packages:
 
 repos:
   - fedora-35
+  - fedora-35-updates
