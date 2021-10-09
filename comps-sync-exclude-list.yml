@@ -176,8 +176,10 @@ desktop_exclude_list:
     - akregator
     - cagibi
     - elisa-player
+    - gwenview
     - kaddressbook
     - kamera
+    - kcalc
     - kcharselect
     - kcolorchooser
     - kde-partitionmanager
@@ -194,7 +196,9 @@ desktop_exclude_list:
     - korganizer
     - kruler
     - ksshaskpass
+    - kwrite
     - libreoffice-kde
+    - okular
     # Misc
     - adwaita-gtk2-theme
     - colord-kde

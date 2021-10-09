@@ -8,9 +8,7 @@ packages:
   - firewall-config
   - glibc-all-langpacks
   - gnome-keyring-pam
-  - gwenview
   - initial-setup-gui
-  - kcalc
   - kde-gtk-config
   - kde-print-manager
   - kde-settings-pulseaudio
@@ -31,8 +29,6 @@ packages:
   - kscreenlocker
   - kwalletmanager5
   - kwin
-  - kwrite
-  - okular
   - pam-kwallet
   - phonon-qt5-backend-gstreamer
   - pinentry-qt
