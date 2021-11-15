@@ -28,6 +28,7 @@ exclude-packages:
   - plasma-discover-packagekit
   # Exclude currently broken support for rpm-ostree in Discover
   - plasma-discover-rpm-ostree
+  - plasma-pk-updates
 
 repos:
   - fedora-35
