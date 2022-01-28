@@ -3,9 +3,8 @@ include: fedora-common-ostree.yaml
 packages:
   - firefox
   - pipewire
-  - pipewire-pulse
+  - pipewire-pulseaudio
   - pipewire-alsa
-  - pipewire-jack
   - pavucontrol
   - blueman
   - alacritty
