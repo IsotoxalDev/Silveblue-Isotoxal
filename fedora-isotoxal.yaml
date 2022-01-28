@@ -1,0 +1,14 @@
+include: isotoxal-pkgs.yaml
+ref: fedora/35/${basearch}/isotoxal
+rojig:
+  name: fedora-isotoxal
+  summary: "My personal variant of silverblue"
+  license: MIT
+packages:
+  - fedora-release
+  - fedora-release-ostree-desktop
+  - hikari
+
+repos:
+  - fedora-35
+  - fedora-35-updates
