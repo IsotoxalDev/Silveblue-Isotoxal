@@ -8,6 +8,7 @@ packages:
   - pavucontrol
   - blueman
   - alacritty
-  - gdm
   - wlroots
   - libinput
+  - lightdm
+  - lightdm-webkit2
