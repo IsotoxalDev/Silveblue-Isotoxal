@@ -10,5 +10,4 @@ packages:
   - alacritty
   - wlroots
   - libinput
-  - lightdm
-  - lightdm-webkit2
+  - cdm
