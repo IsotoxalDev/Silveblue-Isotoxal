@@ -10,3 +10,4 @@ packages:
   - alacritty
   - wlroots
   - libinput
+  - sddm
