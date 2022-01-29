@@ -26,6 +26,3 @@ for x in /usr/sbin/glibc_post_upgrade.*; do
         ln -srf /usr/bin/true ${x}
     fi
 done
-
-cp tovt2.service /etc/systemd/system/
-systemctl enable tovt2
