@@ -11,4 +11,4 @@ packages:
   - gdm
   - wlroots
   - wayland
-  - wayfire
+  - libinput
