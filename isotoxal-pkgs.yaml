@@ -10,5 +10,4 @@ packages:
   - alacritty
   - gdm
   - wlroots
-  - wayland
   - libinput
