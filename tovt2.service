@@ -1,0 +1,7 @@
+[Unit]
+Description=Change VT to 2
+[Service]
+Type=Oneshot
+ExecStart=/usr/sbin/chvt 2
+[Install]
+WantedBy=multi-user.target
