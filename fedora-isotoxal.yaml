@@ -5,9 +5,10 @@ rojig:
   summary: "My personal variant of silverblue"
   license: MIT
 packages:
-  - fedora-release
   - fedora-release-ostree-desktop
   - hikari
+  - xdg-desktop-portal-gtk
+  - xorg-x11-server-Xwayland
 
 repos:
   - fedora-35
