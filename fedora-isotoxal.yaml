@@ -9,6 +9,10 @@ packages:
   - hikari
   - xdg-desktop-portal-gtk
   - xorg-x11-server-Xwayland
+  - neovim
+
+exclude-packages:
+  - vim-minimal
 
 repos:
   - fedora-35
