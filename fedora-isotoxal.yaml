@@ -10,9 +10,16 @@ packages:
   - xdg-desktop-portal-gtk
   - xorg-x11-server-Xwayland
   - neovim
+  - zsh
+  - zsh-autosuggestions
+  - zsh-syntax-highlighting
+  - bat
+  - exa
 
 exclude-packages:
   - vim-minimal
+  - bash
+  - bash-completions
 
 repos:
   - fedora-35
