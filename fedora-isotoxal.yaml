@@ -16,11 +16,6 @@ packages:
   - bat
   - exa
 
-exclude-packages:
-  - vim-minimal
-  - bash
-  - bash-completions
-
 repos:
   - fedora-35
   - fedora-35-updates
