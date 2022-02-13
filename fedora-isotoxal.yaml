@@ -11,8 +11,6 @@ packages:
   - xorg-x11-server-Xwayland
   - neovim
   - zsh
-  - zsh-autosuggestions
-  - zsh-syntax-highlighting
   - bat
   - exa
 
