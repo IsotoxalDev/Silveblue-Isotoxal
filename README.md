@@ -12,7 +12,7 @@ git checkout f35
 mkdir -p repo cache && ostree --repo=repo init --mode=archive
 
 # Build (compose) the variant of your choice
-sudo rpm-ostree compose tree --repo=repo --cachedir=cache fedora-isotoxal.yaml --unified core
+sudo rpm-ostree compose tree --repo=repo --cachedir=cache fedora-isotoxal.yaml --unified-core
 
 # Update summary file
 sudo ostree summary --repo=repo --update
