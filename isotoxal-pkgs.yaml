@@ -1,12 +1,22 @@
-# DO NOT EDIT! This content is generated from comps-sync.py
+# My Packages
 include: fedora-common-ostree.yaml
 packages:
-  - firefox
   - pipewire
   - pipewire-pulseaudio
   - pipewire-alsa
   - pavucontrol
-  - blueman
-  - alacritty
-  - wlroots
   - libinput
+  - wlroots
+  - wl-clipboard
+  - alacritty
+  - firefox
+  - blueman
+  - fd-find
+  - neovim
+  - slurp
+  - xset
+  - grim
+  - mako
+  - zsh
+  - bat
+  - exa
