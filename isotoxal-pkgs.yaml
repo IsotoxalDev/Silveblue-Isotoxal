@@ -14,7 +14,6 @@ packages:
   - fd-find
   - neovim
   - slurp
-  - xset
   - grim
   - mako
   - zsh
