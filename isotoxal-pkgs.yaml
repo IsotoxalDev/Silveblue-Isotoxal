@@ -1,0 +1,22 @@
+# My Packages
+include: fedora-common-ostree.yaml
+packages:
+  - pipewire
+  - pipewire-pulseaudio
+  - pipewire-alsa
+  - pavucontrol
+  - libinput
+  - wlroots
+  - wl-clipboard
+  - alacritty
+  - firefox
+  - blueman
+  - fd-find
+  - neovim
+  - slurp
+  - xset
+  - grim
+  - mako
+  - zsh
+  - bat
+  - exa
