@@ -35,7 +35,7 @@ git clone https://pagure.io/workstation-ostree-config && cd workstation-ostree-c
 mkdir -p repo cache && ostree --repo=repo init --mode=archive
 
 # Build (compose) the variant of your choice
-sudo rpm-ostree compose tree --repo=repo --cachedir=cache fedora-silverblue.yaml
+sudo rpm-ostree compose tree --repo=repo --cachedir=cache fedora-isotoxal.yaml --unified core
 
 # Update summary file
 ostree summary --repo=repo --update
@@ -50,16 +50,16 @@ Instructions to test the resulting build:
 
 ```
 # Add an ostree remote
-sudo ostree remote add testremote http://<IP_ADDRESS>/repo
+sudo ostree remote add isotoxal http://0.0.0.0:8000/repo
 
 # Pin the currently deployed (and probably working) version
 sudo ostree admin pin 0
 
 # List refs from variant remote
-sudo ostree remote refs testremote
+sudo ostree remote refs isotoxal
 
 # Switch to your variant
-sudo rpm-ostree rebase testremote:fedora/35/x86_64/silverblue
+sudo rpm-ostree rebase isotoxal:fedora/35/x86_64/isotoxal
 ```
 
 ## Historical references
