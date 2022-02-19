@@ -8,6 +8,7 @@ packages:
   - libinput
   - wlroots
   - wl-clipboard
+  - google-noto-emoji-fonts
   - alacritty
   - firefox
   - blueman
