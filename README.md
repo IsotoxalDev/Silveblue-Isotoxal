@@ -3,7 +3,7 @@
 ### Commands
 ```
 # Clone the config
-git clone https://pagure.io/workstation-ostree-config && cd workstation-ostree-config
+git clone https://github.com/IsotoxalDev/Silveblue-Isotoxal && cd workstation-ostree-config
 
 # Checkout f35 branch
 git checkout f35
