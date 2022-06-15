@@ -7,7 +7,8 @@ rojig:
 packages:
   - fedora-release-ostree-desktop
   - xdg-desktop-portal-gtk
-  - xorg-x11-server-Xwayland
+  - xorg-x11-server-Xwayland 
+  - papirus-icon-theme 
   - hikari
   - waybar
 

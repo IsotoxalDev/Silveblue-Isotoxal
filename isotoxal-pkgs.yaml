@@ -4,19 +4,35 @@ packages:
   - pipewire
   - pipewire-pulseaudio
   - pipewire-alsa
+  - pulseaudio-utils
+  - pipewire-plugin-jack
+  - helvum
+  - wireplumber
+  - easyeffects
+  - alsa-sof-firmware 
   - pavucontrol
   - libinput
+  - libwacom
+  - inotify-tools
+  - kcm_wacomtablet 
   - wlroots
   - wl-clipboard
   - google-noto-emoji-fonts
+  - google-noto-cjk-fonts
+  - google-noto-fonts-common
+  - picom
   - alacritty
   - firefox
   - blueman
+  - ncmpcpp
   - fd-find
   - neovim
+  - dbus
   - slurp
   - grim
+  - rofi
   - mako
+  - mpc
   - zsh
   - bat
   - exa
